@@ -17,7 +17,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Rust Rescue !!MISSING!!](#)
 - [Space Marshall](#Space-Marshall---chiagozie-Emelife-Julio-Estrada-Kwabena-Adu-Agyemang-Mauricio-Munoz-Sayantan-Maity)
 - [*Totally NOT Adderall Abusers*](#totally-not-adderall-abusers---alex-paque-garns-jd-lepinski-matthew-quinones)
-- [Wake Up !!MISSING!!](#)
+- [Wake Up](#wake-up---elijah-nix)
 - [Wandering Inn: The Game](#wandering-inn-the-game---alayna-randallmontoya)
 - [Zombie Bash](#zombie-bash---arentschool-gturner9371213-hakka2424-robrob7)
 
