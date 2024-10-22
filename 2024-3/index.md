@@ -104,7 +104,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./TAs_example/images/FPv2.gif" alt="some screenshot for your FPv2 (note this image is broken because I didnt supply one)" width="128"/>
 
-
 ### Rust-Rescue - [ahmedbony, xindi-z]
 
 [Rust-Rescue](https://xindi-z.github.io/Rust-Rescue/index.html)
@@ -113,3 +112,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/rrdemo1.gif>" alt="demo" height="128"/>
 <img src="./art/running model.gif>" alt="demo" height="128"/>
+
+### Wake Up - Elijah Nix
+
+[Wake Up](https://elijah-nix.github.io/) 
+
+[v0.1](https://github.com/elijah-nix/WakeUp/releases/tag/v0.1)
+<img src="./art/Screenshot 2024-10-21 214343.png" alt="Picture showing the ability to draw cards." width="128"/>
