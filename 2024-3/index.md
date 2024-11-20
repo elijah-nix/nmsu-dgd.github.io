@@ -18,7 +18,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Rust Rescue !!MISSING!!](#)
 - [Space Marshall](#Space-Marshall---chiagozie-Emelife-Julio-Estrada-Kwabena-Adu-Agyemang-Mauricio-Munoz-Sayantan-Maity)
 - [*Totally NOT Adderall Abusers*](#totally-not-adderall-abusers---alex-paque-garns-jd-lepinski-matthew-quinones)
-- [Wake Up !!MISSING!!](#)
+- [Wake Up](#Wake Up--Elijah Nix)
 - [Wandering Inn: The Game](#wandering-inn-the-game---alayna-montoya)
 - [Zombie Bash](#zombie-bash---arentschool-gturner9371213-hakka2424-robrob7)
 
@@ -184,7 +184,15 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/demo.gif" alt="demo" height="128"/>
 
+### Wake Up
+[Wake Up](https://elijah-nix.github.io/)
 
+[v0.1]https://github.com/elijah-nix/WakeUp/releases/tag/v0.1
+
+
+[v0.2]https://github.com/elijah-nix/WakeUp/releases/tag/v0.2
+
+<img src="./art/Screenshot 2024-11-20 141502.png" alt="demo" height="128"/>
 
 ## Lightning Game
 
